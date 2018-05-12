@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
 description: This 1864 children's book tells the story of Minnie and her pet Shetland
   pony, Star.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26620#Minnie-s-Pet-Horse
 gutenberg_issued: '2008-09-14'
 gutenberg_type: Text
 identifiers:
